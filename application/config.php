@@ -1,13 +1,13 @@
 <?php 
     define('HOSTNAME', 'localhost');
-    define('USERNAME', 'root');
-    define('PASSWORD', 'header123');
-    define('DATABASE', 'exercise');
+    define('USERNAME', '');
+    define('PASSWORD', '');
+    define('DATABASE', '');
 	
-    define('DOMAIN', '77.78.55.163:8080');
-    define('PATH', '/exercise/');
-    define('PATH_LOCATION','F:\xampp\htdocs');
-    define('PATH_FULL', 'F:\xampp\htdocs\exercise');
+    define('DOMAIN', '');
+    define('PATH', '');
+    define('PATH_LOCATION','');
+    define('PATH_FULL', '');
     define('SITE_ID', '#112233');
 
     define('DEFAULT_CONTROLLER', 'Home');
